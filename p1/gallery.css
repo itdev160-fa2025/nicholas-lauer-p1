@@ -1,0 +1,15 @@
+/* Gallery Page CSS */
+
+.photoBlock {
+    width: 100%;
+    padding-top: 1em;
+
+}
+.photoBlock img {
+    width: 100%;
+    box-shadow: 4px 4px 4px #666;
+}
+
+body {
+    text-align: center;
+}
